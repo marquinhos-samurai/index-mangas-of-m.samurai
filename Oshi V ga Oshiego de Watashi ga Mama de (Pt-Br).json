@@ -5,7 +5,9 @@
   "author": "晩野 (Bano)",
   "cover": "https://d2x5f4aekiektw.cloudfront.net/fuz/images/images/4771/thumb/S01427-kv.jpg",
   "chapters":
-   { "1": {
+   { "01": {
       "title": "A Personagem Secreta é uma Estudante",
-      "volume": "1","groups": {"Marquinhos Samurai Traduções Indepenentes": "/proxy/api/imgur/chapter/DpPv2td/" },
-      "last_updated": "1618521420"}}}
+      "volume": "01",
+      "groups": {"Marquinhos Samurai Traduções Indepenentes": "/proxy/api/imgur/chapter/DpPv2td/" },
+      "last_updated": "1618521420"}
+      }}
