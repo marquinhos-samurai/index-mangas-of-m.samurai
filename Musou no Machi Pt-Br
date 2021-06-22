@@ -1,0 +1,13 @@
+{
+  "title": "Musou no Machi",
+  "description": "Uma garota chamada Kusunoki Mayowa, acaba de se mudar para cidade de Kumogaura, onde pode ver o mar. Registros deslumbrantes e obcuros são explicados uma cidade misteriosa",
+  "artist": "夜の羊雲 (Yoru no Hitsujigumo)",
+  "author": "夜の羊雲 (Yoru no Hitsujigumo)",
+  "cover": "https://i.imgur.com/DqFJr5v.png",
+  "chapters":
+   { "01": {
+      "title": "A viagem da garota de Midori",
+      "volume": "01",
+      "groups": {"Não tem (ainda)": "/proxy/api/imgur/chapter/MnjKwLa/" },
+      "last_updated": "1624338000"}
+      }}
