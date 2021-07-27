@@ -1,0 +1,13 @@
+{
+  "title": "**NOME**",
+  "description": "**RESUMO**",
+  "artist": "**ARTISTA**",
+  "author": "**AUTOR(Historia)",
+  "cover": "**URL DA CAPA**",
+  "chapters":
+   { "**CAPITULO (Numeros)": {
+      "title": "**TITULO**",
+      "volume": "**VOLUME (Numeros)**",
+      "groups": {"**SCAN**": "/proxy/api/imgur/chapter/**ULTMAS LETRAS DO IMGUR**/" },
+      "last_updated": "**TEMPO (10 digitos)**"}
+      }}
