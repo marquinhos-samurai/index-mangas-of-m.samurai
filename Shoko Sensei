@@ -5,9 +5,9 @@
    "author": "なじみ (Najimi)",
    "cover": "https://i.imgur.com/wdIXGvQ.jpg",
    "chapters":
-   { "0": {
+   { "00": {
       "title": "Prólogo",
-      "volume": "1",
+      "volume": "01",
       "groups": {"Marquinhos Samurai": "/proxy/api/imgur/chapter/N7muPOv/"}, 
       "last_updated": ""}
    }}
