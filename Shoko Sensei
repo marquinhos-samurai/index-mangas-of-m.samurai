@@ -6,12 +6,12 @@
 	"cover":"https://imgur.com/a/nYR8McP",
 	"chapters":{
 		"0": {
-			"title": "",
+			"title": "Capítulo 00",
 			"volume": "1",
 			"groups": {"Marquinhos Samurai": "/proxy/api/imgur/chapter/N7muPOv/"},
 			"last_updated": ""},
 		"1": {
-			"title": "",
+			"title": "Capítulo 01",
 			"volume": "1",
 			"groups": {"Marquinhos Samurai": "/proxy/api/imgur/chapter/eVJ8cN4/"},
 			"last_updated": ""}}}
